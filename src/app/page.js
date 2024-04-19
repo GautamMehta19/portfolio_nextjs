@@ -1,9 +1,9 @@
-import HomePage from "./Home/Home";
-import Navbar from "./Navbar/Navbar";
-import AboutPage from "./About/About";
-import Skills from "./Skills/Skills";
-import Projects from "./Projects/Projects";
-import Contact from "./Contact/Contact";
+import HomePage from "./Components/Home/Home";
+import Navbar from "./Components/Navbar/Navbar";
+import AboutPage from "./Components/About/About";
+import Skills from "./Components/Skills/Skills";
+import Projects from "./Components/Projects/Projects";
+import Contact from "./Components/Contact/Contact";
 
 export default function Home() {
   return (
