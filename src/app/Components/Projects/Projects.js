@@ -26,7 +26,7 @@ const projects = [
         githubLink: "https://github.com/GautamMehta19/project_4-urlShortnerGroup"
     },
     {
-        image: "Library",
+        image: "library",
         name: "Library Managment",
         description: "Manage the Library (Books and Author details)",
         githubLink: "https://github.com/GautamMehta19/Project-3-Books_Managment"
